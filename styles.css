@@ -1,0 +1,40 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #F9F7F7;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #112D4E;
+  font-size: 8rem;
+  color: #3F72AF;
+}
+
+p {
+  font-size: 2rem;
+  color: #112D4E;
+  font-family: 'Carter One', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #112D4E;
+  text-align: center;
+  font-family: 'Carter One', cursive;
+}
